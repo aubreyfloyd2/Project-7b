@@ -5,7 +5,7 @@
 #              without using slices.
 
 def reverse_list(vals):
-    """Returns the values of the list in reverse order."""
+    """Returns the values of the list in reverse order"""
     i = 0
     j = len(vals)-1 # index length of list minus 1
     while(i<j):
